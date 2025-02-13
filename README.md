@@ -46,8 +46,8 @@ I'm **Sanuar Khan**, a passionate **Full-Stack Web Developer (MERN)** 🚀, dedi
 🌐 [Portfolio Website](#)  
 💼 [Upwork Profile](https://www.upwork.com/freelancers/~014d116aa11aa0b1ad?mp_source=share)  
 🐦 [Twitter](https://x.com/Sanuarkhanwdx)  
-🔗 [LinkedIn](https://www.linkedin.com/in/Sanuarpgda)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sanuar-khanwdx/)  
 👨‍💻 [GitHub](https://github.com/sanuarKhan)  
-📧 **Email:** [Your Email Here]
+📧 **Email:** [sanuarkhan220@gmail.com]
 
 📩 **Got a project? Let's discuss!** Feel free to **DM me** or send an email. I'm excited to collaborate and bring your ideas to life! 🎯🔥
