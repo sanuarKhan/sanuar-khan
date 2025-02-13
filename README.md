@@ -1,4 +1,4 @@
-#### Watch it live here - [https://sanuarkhan.vercel.app/](https://sanuarkhan.vercel.app/)
+#### Watch it live here - [https://sanuarkhan.netlify.app/](https://sanuarkhan.netlify.app/)
 
 yeahh - THANK ME LATER : CONTACT ME LINKEDIN </> @sanuar-khanwdx </>
 
